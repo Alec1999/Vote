@@ -1,0 +1,47 @@
+p {
+  font-size: 20px;
+}
+
+a, a:visited, a:hover, a:active {
+  color: inherit;
+}
+
+.title {
+  background-image: url("https://img-aws.ehowcdn.com/877x500p/s3-us-west-1.amazonaws.com/contentlab.studiod/getty/f24b4a7bf9f24d1ba5f899339e6949f3");
+}
+
+.goallist {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.centerclass {
+  height: 90px;
+  line-height: 30px;
+  text-align: center;
+  vertical-align: middle;
+  margin-left: 550px;
+  margin-right: 550px;
+}
+
+.about {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  background-color: LightSteelBlue ;
+}
+
+.goals {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  background-color: LightSteelBlue;
+}
+
+.contact {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  background-color: LightSteelBlue ;
+}
